@@ -30,5 +30,3 @@ LICENSE
 
 Berikut link video demo nya :
 https://drive.google.com/drive/folders/1d-tRrMbIVCrC5JeZGd-nAbHMmcYv_eIv?usp=sharing
-
-
